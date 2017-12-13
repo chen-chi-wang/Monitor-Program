@@ -55,6 +55,7 @@ When executing the monitored program, using the `LD_PRELOAD` to set our shared l
     - `dlclose()`: The converse of *dlopen*, which closes a shared library.
 
 - MACRO
+
 Here is a sample macro implementation.
     ```
     /*0 para*/
