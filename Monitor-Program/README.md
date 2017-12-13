@@ -56,7 +56,7 @@ When executing the monitored program, using the `LD_PRELOAD` to set our shared l
 
 - MACRO
 
-Here is a sample macro implementation.
+    Here is a sample macro implementation.
     ```
     /*0 para*/
     #define GENERIC_DECLARE_0_VAR(name,returnFmt,returnType)                     \
